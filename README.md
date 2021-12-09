@@ -1,0 +1,3 @@
+# Hastane_data
+Hastane Database
+ATÜ ÖZEL HASTANESİ DATABASE OLUŞTURULDU VE İLİŞKİSEL VERİ TABANI KURULDU.
